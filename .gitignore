@@ -1,0 +1,11 @@
+# Files
+/css/**/*.css
+*.DS_Store
+/.env
+*.log*
+
+# Directories
+/.idea/
+/coverage*
+/node_modules/
+/src/
