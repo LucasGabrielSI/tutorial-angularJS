@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-angular",
+  "version": "1.0.0",
+  "description": "tutorial para aprendizado do framework angular",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucas gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.4",
+    "gulp": "^3.9.1"
+  }
+}
